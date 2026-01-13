@@ -18,7 +18,7 @@ The goal is to assess whether machine learning models can deliver incremental pr
 
 The full write-up and results are presented in the accompanying paper:
 
-📄 **Medium-Horizon Volatility Forecasting in Corn Futures** :contentReference[oaicite:0]{index=0}
+📄 **Medium-Horizon Volatility Forecasting in Corn Futures** 
 
 ## Author
 Souhil Khiat  
